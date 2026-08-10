@@ -1,4 +1,4 @@
-# E-commerce & Retail — Customer Lifetime Value, Cohort Retention & Inventory Forecasting
+# Customer Lifetime Value, Cohort Retention & Inventory Forecasting
 
 ## Executive Summary
 This portfolio project connects **customer value analytics** with **inventory planning** for an online retailer facing churn and peak-season stock-out risk.
